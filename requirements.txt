@@ -1,0 +1,7 @@
+torch>=1.7.0
+opencv-python
+numpy
+Pillow
+scipy
+matplotlib
+pdf2image
